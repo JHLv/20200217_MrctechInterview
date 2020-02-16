@@ -5,7 +5,7 @@
 -SQL伺服器:                      8.0.17 - MySQL Community Server - GPL
 -PHP版本:                        7.0
 -HeidiSQL 版本:                  10.3.0.5771
-----------------------------------------------------------
+
 
 
 ![image](https://github.com/JHLv/20200217_MrctechInterview/blob/master/runtime02.png)

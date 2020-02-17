@@ -7,12 +7,16 @@
 -HeidiSQL 版本:                  10.3.0.5771 <br>
 
 
-<br>1. 新增會員 
+<br>----------------------------------------------------------------<br>
+1. 新增會員 <br>
 ![image](https://github.com/JHLv/20200217_MrctechInterview/blob/master/runtime01.png)
-<br>2. 刪除會員 
+<br>----------------------------------------------------------------<br>
+<br><br>2. 刪除會員 <br>
 ![image](https://github.com/JHLv/20200217_MrctechInterview/blob/master/runtime02.png)
-<br>3. 修改會員密碼
+<br>----------------------------------------------------------------<br>
+<br><br>3. 修改會員密碼 <br>
 ![image](https://github.com/JHLv/20200217_MrctechInterview/blob/master/runtime03.png)
-<br>4. 驗證帳號密碼 
+<br>----------------------------------------------------------------<br>
+<br><br>4. 驗證帳號密碼 <br>
 ![image](https://github.com/JHLv/20200217_MrctechInterview/blob/master/runtime04.png)
 

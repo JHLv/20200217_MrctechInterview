@@ -6,5 +6,5 @@ PHP版本: 7.0<br>
  -資料庫名稱: "mrctechinterv";<br>
  -連線檔位置: "/v1/db_connect.php"<br>
 -----------------------------------<br>
-"v2"為"v1"的修改版, 另外添增了一項RESTservice(restEngine.php), 其目的為精化PHP主頁之凌亂程序．
+"v2"為"v1"的修改版, 另外添增了一項RESTService API(restEngine.php), 其目的為精化PHP主頁之凌亂程序．
 若不介意檔延遲上傳, 可以直接觀看"v1", 兩版本皆是相同功能呈現, 異於內部程式規劃,謝謝．

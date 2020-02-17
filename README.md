@@ -11,12 +11,12 @@
 1. 新增會員 <br>
 ![image](https://github.com/JHLv/20200217_MrctechInterview/blob/master/runtime01.png)
 <br>----------------------------------------------------------------<br>
-<br><br>2. 刪除會員 <br>
+<br>2. 刪除會員 <br>
 ![image](https://github.com/JHLv/20200217_MrctechInterview/blob/master/runtime02.png)
 <br>----------------------------------------------------------------<br>
-<br><br>3. 修改會員密碼 <br>
+<br>3. 修改會員密碼 <br>
 ![image](https://github.com/JHLv/20200217_MrctechInterview/blob/master/runtime03.png)
 <br>----------------------------------------------------------------<br>
-<br><br>4. 驗證帳號密碼 <br>
+<br>4. 驗證帳號密碼 <br>
 ![image](https://github.com/JHLv/20200217_MrctechInterview/blob/master/runtime04.png)
 
